@@ -11,8 +11,6 @@ brandimg = './assets/img/doma.svg';
 nav1 = 'Portfolio';
 nav2 = 'Contact';
 nav3 = 'About';
-navbtn1 = 'Premium';
-navbtn2 ='Freemium';
 
   constructor() { }
 
